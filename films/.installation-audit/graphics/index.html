@@ -1,0 +1,31 @@
+<!doctype html><meta charset="utf-8">
+<style>body{margin:0;background:#162030}canvas{display:block}</style>
+<script type="importmap">{"imports":{"three":"/node_modules/three/build/three.module.js","three/addons/":"/node_modules/three/examples/jsm/"}}</script>
+<canvas id="c"></canvas>
+<script type="module">
+import * as THREE from 'three';
+import {makePost as make3D} from '/core/three/post.js';
+import {makePost as makeCRT} from '/core/post/crt.js';
+const cv=document.getElementById('c'), w=innerWidth,h=innerHeight;
+cv.width=w;cv.height=h;
+const mode=new URLSearchParams(location.search).get('mode')||'2d';
+await document.fonts.load('20px sans-serif');
+window.DUR=4;window.EV=[{t:1,type:'click'}];
+window.TEXTS=()=>[{id:'label',text:'OK',x0:20,y0:20,x1:65,y1:45}];
+if(mode==='3d'){
+ const renderer=new THREE.WebGLRenderer({canvas:cv});renderer.setSize(w,h);
+ const scene=new THREE.Scene();scene.background=new THREE.Color('#162030');
+ const camera=new THREE.PerspectiveCamera(45,w/h,.1,20);camera.position.set(0,1,4);camera.lookAt(0,0,0);
+ const cube=new THREE.Mesh(new THREE.BoxGeometry(),new THREE.MeshStandardMaterial({color:'#e89955'}));scene.add(cube);
+ const floor=new THREE.Mesh(new THREE.PlaneGeometry(10,10),new THREE.MeshStandardMaterial({color:'#666666'}));floor.rotation.x=-Math.PI/2;floor.position.y=-.6;scene.add(floor);
+ scene.add(new THREE.HemisphereLight(0xffffff,0x444444,2));
+ const post=make3D(renderer,scene,camera,w,h,{ssaa:2,ao:true});post.dof.focus=4;
+ window.render=t=>{cube.rotation.y=t*.6;post.composer.render();};
+}else{
+ const source=mode==='crt'?document.createElement('canvas'):cv;
+ source.width=w;source.height=h;const g=source.getContext('2d');
+ const crt=mode==='crt'?makeCRT(cv):null;
+ window.render=t=>{g.fillStyle='#162030';g.fillRect(0,0,w,h);g.fillStyle='#ffffff';g.font='20px sans-serif';g.fillText('OK',20,40);g.fillStyle='#e89955';g.fillRect(100+t*20,100,100,100);if(crt)crt.render(source,null,Math.round(t*24));};
+}
+window.render(0);window.READY=true;
+</script>

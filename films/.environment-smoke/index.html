@@ -1,0 +1,13 @@
+<!doctype html><meta charset="utf-8"><canvas id="c" width="640" height="360"></canvas>
+<script type="module">
+import {lerp} from '/core/lib.js';
+import * as THREE from '/node_modules/three/build/three.module.js';
+const canvas=document.getElementById('c');
+const renderer=new THREE.WebGLRenderer({canvas}); renderer.setSize(640,360);
+const scene=new THREE.Scene(); scene.background=new THREE.Color('#162030');
+const camera=new THREE.PerspectiveCamera(45,640/360,0.1,10); camera.position.z=3;
+const mesh=new THREE.Mesh(new THREE.BoxGeometry(),new THREE.MeshNormalMaterial());scene.add(mesh);
+window.DUR=2; window.EV=[];
+window.render=t=>{mesh.rotation.y=lerp(0,1,t/2);renderer.render(scene,camera);};
+window.render(0); window.READY=true;
+</script>

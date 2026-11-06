@@ -1,0 +1,29 @@
+[
+  {
+    "test": "edge_https_library_explicit_proxy",
+    "ok": false,
+    "error": "ClientHttpProxyError",
+    "status": 403,
+    "message": "Forbidden"
+  },
+  {
+    "test": "edge_websocket_transport_explicit_proxy",
+    "ok": false,
+    "error": "ClientHttpProxyError",
+    "status": 403,
+    "message": "Forbidden"
+  },
+  {
+    "test": "edge_synthesis_library_explicit_proxy",
+    "ok": false,
+    "error": "ClientHttpProxyError",
+    "status": 403,
+    "message": "Forbidden"
+  },
+  {
+    "test": "whisper_small_download",
+    "ok": false,
+    "error": "ProxyError",
+    "message": "403 Forbidden"
+  }
+]

@@ -1,0 +1,1397 @@
+{
+  "grouped_generated_files": {
+    "Métadonnées Git locales ; historique conservé par la filiation du commit": 30,
+    "Dépendances installées ou cache généré": 11961,
+    "Galerie générée": 242
+  },
+  "individual_exclusions": [
+    {
+      "path": "core/assets/polyhaven/lythwood_lounge_2k.hdr",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/assets/polyhaven/photo_studio_loft_hall_2k.hdr",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/index.json",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/LICENSE",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/readme.txt",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_a5_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_a5_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_a5_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_a5_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_a6_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_a6_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_a6_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_a6_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_ab5_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_ab5_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_ab5_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_ab5_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_ab6_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_ab6_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_ab6_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_ab6_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_b5_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_b5_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_b5_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_b5_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_bb5_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_bb5_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_bb5_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_bb5_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_c6_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_c6_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_c6_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_c6_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_d5_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_d5_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_d5_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_d5_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_d6_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_d6_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_d6_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_d6_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_db6_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_db6_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_db6_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_db6_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_e5_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_e5_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_e5_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_e5_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_e6_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_e6_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_e6_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_e6_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_eb5_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_eb5_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_eb5_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_eb5_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_eb6_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_eb6_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_eb6_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_eb6_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_f5_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_f5_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_f5_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_f5_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_f6_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_f6_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_f6_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_f6_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_g5_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_g5_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_g5_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_g5_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_g6_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_g6_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_g6_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_g6_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_gb5_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_gb5_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_gb5_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_gb5_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_gb6_stac_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_gb6_stac_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_gb6_stac_rr3.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/stac/erhu_gb6_stac_rr4.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_a5_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_a5_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_a6_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_a6_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_ab5_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_ab5_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_ab6_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_ab6_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_b5_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_b5_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_bb5_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_bb5_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_c6_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_c6_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_d5_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_d5_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_d6_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_d6_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_db6_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_db6_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_e5_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_e5_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_e6_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_e6_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_eb5_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_eb5_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_eb6_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_eb6_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_f5_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_f5_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_f6_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_f6_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_g5_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_g5_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_g6_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_g6_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_gb5_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_gb5_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_gb6_sus_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/erhu/Samples/sus/erhu_gb6_sus_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/LICENSE",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/readme.txt",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_a2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_a2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_a3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_a3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_a4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_a4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_ab2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_ab2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_ab3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_ab3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_ab4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_ab4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_b2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_b2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_b3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_b3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_b4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_b4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_bb2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_bb2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_bb3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_bb3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_bb4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_bb4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_c2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_c2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_c3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_c3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_c4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_c4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_c5_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_c5_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_d2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_d2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_d3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_d3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_d4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_d4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_db2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_db2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_db3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_db3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_db4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_db4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_e2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_e2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_e3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_e3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_e4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_e4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_eb2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_eb2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_eb3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_eb3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_eb4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_eb4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_f2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_f2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_f3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_f3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_f4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_f4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_g2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_g2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_g3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_g3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_g4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_g4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_gb2_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_gb2_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_gb3_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_gb3_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_gb4_finger_rr1.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/sneakybass/Samples/finger/sneakybass_gb4_finger_rr2.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/LICENSE",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/readme.txt",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/a2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/a2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/a3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/a3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/ab2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/ab2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/ab3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/ab3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/ab4_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/ab4_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/b2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/b2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/b3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/b3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/bb2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/bb2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/bb3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/bb3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/c3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/c3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/c4_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/c4_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/d2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/d2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/d3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/d3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/d4_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/d4_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/db2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/db2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/db3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/db3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/db4_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/db4_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/e2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/e2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/e3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/e3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/e4_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/e4_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/eb2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/eb2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/eb3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/eb3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/eb4_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/eb4_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/f2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/f2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/f3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/f3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/f4_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/f4_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/g2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/g2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/g3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/g3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/g4_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/g4_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/gb2_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/gb2_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/gb3_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/gb3_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/gb4_f_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/audio/instruments/karoryfer/weresax/Samples/alto/gb4_p_rr1_cnd.flac",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/tts/kokoro-v1.0.onnx",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "core/tts/voices-v1.0.bin",
+      "reason": "Ressource externe téléchargée, restaurer via les packs documentés"
+    },
+    {
+      "path": "films/.codex-runtime/validation/2d.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/3d.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/combined.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/edge-fr.mp3",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/final-2d-3d.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/final.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/kokoro.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/mux-combined.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/mux.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/video-3d.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/video-3d.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/video.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/video.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/voice-mix.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/whisper.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/2d/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/2d/t_1.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/3d/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/3d/t_1.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.codex-runtime/validation/kokoro/french.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.environment-smoke/contact.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.environment-smoke/final.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.environment-smoke/mix.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.environment-smoke/out/video.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.environment-smoke/stills/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.environment-smoke/stills/t_1.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/erhu.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/export-voix-1080p.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/fetch-hdri.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/fetch-instruments.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/graphic-1080p.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/voice-mix.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/frames-2d/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/frames-2d/t_1.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/frames-3d/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/frames-3d/t_1.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/frames-crt/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/frames-crt/t_1.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/logs/blackdetect.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/logs/install-repeat.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/retest-system-browser/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/voices/english.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.installation-audit/voices/french.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.publication-check/mux.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.publication-check/verification-finale.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.publication-check/video.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.publication-check/voice-mix.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.publication-check/whisper-network.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.publication-check/whisper-offline.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.publication-check/frames-2d/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.publication-check/frames-3d/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.publication-check/frames-crt/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.publication-check/voices/french.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-authorized/edge-fr.mp3",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-authorized/regression.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-authorized/video.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-authorized/voice-mix.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-authorized/2d/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-authorized/3d/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-authorized/kokoro/french.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-diagnostic/edge-connect.txt",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-diagnostic/regression.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-diagnostic/video.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-diagnostic/whisper-connect.txt",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-diagnostic/2d/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-diagnostic/3d/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-diagnostic/kokoro/french.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-diagnostic/kokoro-offline/french.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-final/edge-fr.mp3",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-final/edge-restricted-fr.mp3",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-final/edge-wrapper-fr.mp3",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-final/regression-restricted.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-final/restricted-validation.log",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-final/video-restricted.mp4",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-final/voice-mix-restricted.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-final/2d-restricted/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-final/3d-restricted/t_0.jpg",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    },
+    {
+      "path": "films/.speech-final/kokoro-restricted/french.wav",
+      "reason": "Résultat de test généré ou trace de transport ; non requis pour reconstruire"
+    }
+  ]
+}

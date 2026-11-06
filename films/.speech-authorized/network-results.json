@@ -1,0 +1,26 @@
+[
+  {
+    "test": "whisper_metadata",
+    "error": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "test": "whisper_model",
+    "error": "URLError",
+    "message": "<urlopen error Tunnel connection failed: 403 Forbidden>"
+  },
+  {
+    "test": "edge_https_voices",
+    "ok": false,
+    "error": "ClientHttpProxyError",
+    "status": 403,
+    "message": "Forbidden"
+  },
+  {
+    "test": "edge_wss_synthesis",
+    "ok": false,
+    "error": "ClientHttpProxyError",
+    "status": 403,
+    "message": "Forbidden"
+  }
+]

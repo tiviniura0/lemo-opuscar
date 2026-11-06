@@ -1,0 +1,23 @@
+[
+  {
+    "test": "edge_https_voices",
+    "ok": false,
+    "error": "ClientConnectorCertificateError",
+    "status": null,
+    "message": ""
+  },
+  {
+    "test": "edge_wss_transport_without_service_auth",
+    "ok": false,
+    "error": "WSServerHandshakeError",
+    "status": 401,
+    "message": "Invalid response status"
+  },
+  {
+    "test": "edge_french_synthesis",
+    "ok": false,
+    "error": "ClientConnectorCertificateError",
+    "status": null,
+    "message": ""
+  }
+]

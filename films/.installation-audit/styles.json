@@ -1,0 +1,398 @@
+[
+  {
+    "slug": "archive-lighttable",
+    "name": "Archive Light Table",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "art-deco",
+    "name": "Art Deco",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "ascii-crt",
+    "name": "ASCII / CRT Terminal",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "backrooms",
+    "name": "Liminal Found Footage",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "blueprint",
+    "name": "Blueprint",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "brick-toy",
+    "name": "Brick Toy",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "briefing-board",
+    "name": "Engineering Briefing Board",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "caption-news",
+    "name": "Caption News",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "cel-anime-80s",
+    "name": "80s Cel Anime",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "chalkboard",
+    "name": "Chalkboard",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "circuit-board",
+    "name": "Circuit Board",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "city-symphony",
+    "name": "Time-lapse Symphony",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "countdown",
+    "name": "Live Countdown Split-screen",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "crayon-book",
+    "name": "Crayon Picture Book",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "dark-keynote",
+    "name": "Dark Tech Keynote",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "data-physical",
+    "name": "Data Physicalization",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "dataviz",
+    "name": "Data Storytelling",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "desktop-flythrough",
+    "name": "Desktop Flythrough",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "engraving",
+    "name": "Copperplate Engraving",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "game-show",
+    "name": "Game Show Flat",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "glass-product",
+    "name": "Glass Product Render",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "halftone-dossier",
+    "name": "Halftone Dossier",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "hd-2d",
+    "name": "HD-2D",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "hologram-hud",
+    "name": "Sci-fi Hologram HUD",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "impasto",
+    "name": "Impasto Oil Painting",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "ink-wash",
+    "name": "Chinese Ink Wash",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "iso-infographic",
+    "name": "Isometric Infographic",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "isometric-picture-book",
+    "name": "Isometric Picture Book",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "kino-montage",
+    "name": "Constructivist Montage",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "lidar-survey",
+    "name": "LiDAR Survey",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "living-screencast",
+    "name": "Living Screencast",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "lowpoly-island",
+    "name": "Low-poly Isometric Island",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "memphis-diorama",
+    "name": "Memphis Diorama",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "microgame",
+    "name": "Microgame Frenzy",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "microscope",
+    "name": "Microscope Story",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "midcentury-toon",
+    "name": "Mid-century Cartoon",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "news-package",
+    "name": "Broadcast News Package",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "newsreel",
+    "name": "1920s Newsreel",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "one-line",
+    "name": "One-line Drawing",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "paper-lantern",
+    "name": "Paper-cut Lightbox",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "paper-popup",
+    "name": "Paper Pop-up Book",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "papercut-red",
+    "name": "Red Paper-cut",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "pictogram-motion",
+    "name": "Pictogram Motion",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "pixel-rpg",
+    "name": "16-bit Pixel RPG",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "printed-long-take",
+    "name": "Printed Long Take",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "risograph",
+    "name": "Risograph Print",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "rubber-hose",
+    "name": "1930s Rubber Hose Cartoon",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "satellite-briefing",
+    "name": "Satellite Briefing",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "scifi-toon",
+    "name": "Sci-Fi Sitcom Toon",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "shadow-puppet",
+    "name": "Shadow Puppetry",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "silent-film",
+    "name": "1920s Silent Film",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "silkscreen-poster",
+    "name": "Silkscreen Travel Poster",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "spy-titles",
+    "name": "60s Spy Title Sequence",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "stained-glass",
+    "name": "Stained Glass",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "swiss-motion",
+    "name": "Swiss Motion Graphics",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "teardown",
+    "name": "Exploded Teardown",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "telestrator",
+    "name": "Sports Telestrator",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "tilt-shift",
+    "name": "Tilt-Shift Miniature",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "transit-map",
+    "name": "Transit Map",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "ukiyoe",
+    "name": "Ukiyo-e",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "urban-sketch",
+    "name": "Urban Sketch \u00b7 Pen & Wash",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "visual-investigation",
+    "name": "Visual Investigation",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "watercolor",
+    "name": "Watercolor Brush",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "white-model",
+    "name": "Projection on White Model",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "whiteboard",
+    "name": "Whiteboard Explainer",
+    "source_present": true,
+    "render_tested": false
+  },
+  {
+    "slug": "woodcut",
+    "name": "Woodcut Print",
+    "source_present": true,
+    "render_tested": false
+  }
+]

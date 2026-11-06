@@ -1,0 +1,63 @@
+[
+  {
+    "test": "python-dependencies",
+    "exit_code": 0,
+    "seconds": 0.28
+  },
+  {
+    "test": "whisper-hashes",
+    "exit_code": 0,
+    "seconds": 0.4
+  },
+  {
+    "test": "kokoro",
+    "exit_code": 0,
+    "seconds": 2.28
+  },
+  {
+    "test": "whisper-transcription",
+    "exit_code": 0,
+    "seconds": 2.8
+  },
+  {
+    "test": "kokoro-decode",
+    "exit_code": 0,
+    "seconds": 0.08
+  },
+  {
+    "test": "edge-fr",
+    "exit_code": 124,
+    "seconds": 25.02
+  },
+  {
+    "test": "render-2d",
+    "exit_code": 1,
+    "seconds": 0.52
+  },
+  {
+    "test": "render-3d",
+    "exit_code": 1,
+    "seconds": 0.33
+  },
+  {
+    "test": "video-2d",
+    "exit_code": 1,
+    "seconds": 0.3
+  },
+  {
+    "test": "style-definitions",
+    "count": 66,
+    "issues": [],
+    "exit_code": 0
+  },
+  {
+    "test": "helper-syntax",
+    "count": 16,
+    "exit_code": 0
+  },
+  {
+    "test": "npm-ci-reinstallation",
+    "status": "not_verified",
+    "reason": "Attempt stopped: command sandbox cannot connect to proxy:8080; installed Node modules copied into isolated space for local tests."
+  }
+]

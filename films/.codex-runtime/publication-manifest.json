@@ -1,0 +1,316 @@
+{
+  "purpose": "Retained publication files, not an image-wide persistence guarantee",
+  "files": [
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/preflight.py",
+      "bytes": 4417,
+      "sha256": "dd68bd02568af3ec7cfc3ee820274f3f01addfa25b3f651a980a12042f25e29d"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/chromium-safe.mjs",
+      "bytes": 1700,
+      "sha256": "cd0ed3a49fd8ca4936c4887ff878fdd52722fe0fec07b7a721773ebaf4e7600f"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/verify-publication.py",
+      "bytes": 1069,
+      "sha256": "ce8c8360876c3ac1563ce2eb19d12a77dcb8fed89109bbf82df482577ae75d84"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/README.md",
+      "bytes": 8175,
+      "sha256": "8cca7425adb3d6904fb3253dee2a0ccc4445be9c34d2075088d9612f77580450"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/POST-PUBLICATION.md",
+      "bytes": 6315,
+      "sha256": "96be1948ad0122ca54d67dd29bf759b4d46cdabf666585008d53d38cd084b00f"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/PREPUBLICATION.md",
+      "bytes": 9159,
+      "sha256": "21fe96e76f862da0863128838c58d39246bd615da491e9c2365538ffae06e08a"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/RAPPORT.md",
+      "bytes": 9141,
+      "sha256": "1177374094b9c0645d798d0fb78f3b0ef5f90e86d30ed76d6cbff091029f5394"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/publication-install-saved.sh",
+      "bytes": 2222,
+      "sha256": "4bdb5f459918b33c9c48ee6ede870662f9b1c2812e46ff2e87dee89f89eb338b"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/publication-start-saved.md",
+      "bytes": 6378,
+      "sha256": "bd4de62ef1ac4e21fc84e1ee891533da141819c3cd88fa46f47d0d89bc379d20"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.speech-final/edge-with-platform-ca.py",
+      "bytes": 988,
+      "sha256": "acafb893b5fe580f6855fa425569851d7b628aaf910487095e30ef8f5da5c19d"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.speech-final/offline-python.py",
+      "bytes": 441,
+      "sha256": "9d6e01b89378229706ffd568894806565c757be872deca0728dd5d4379326921"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.speech-final/verify-whisper.py",
+      "bytes": 910,
+      "sha256": "ca07fde7caab0bcef7950303414733799a4b40030267620abbffe1c063729ffd"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.speech-final/prepare-whisper.py",
+      "bytes": 2937,
+      "sha256": "62fe7ba90ec56bb57d858c5d3698da9de99d04c920aae496aadfe2e7e2b4ba5a"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.speech-final/model-metadata.json",
+      "bytes": 5455,
+      "sha256": "c3514beec49a5a29945802549db708da3d53a740c957fc65f2475353e60b54b8"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.speech-final/check-restricted.sh",
+      "bytes": 1767,
+      "sha256": "e50a3ef4f4c300cef7b7022c3a78bec8f05974870e53ce0692c5c91fc4a4b20e"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.installation-audit/baseline.json",
+      "bytes": 272015,
+      "sha256": "8c1a2ec34ebe888425672ede9384a8dd525fffe4586cc55a7362f4a90c374130"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.installation-audit/styles.json",
+      "bytes": 8258,
+      "sha256": "867914d5dcab1383cc39a459c743887fe4cdc85f2480ed73ac19377952f54c17"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.installation-audit/graphics/index.html",
+      "bytes": 2007,
+      "sha256": "9131cad32d24a1564140981356fb46152aeceb8622a7e262d1a3a8f1a9a319ae"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.publication-check/lines.json",
+      "bytes": 112,
+      "sha256": "eb4e2f6f8288401423dd28b0c9e7c0d3f9012156bdc7080639f884f87768cc57"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.publication-check/env.sh",
+      "bytes": 142,
+      "sha256": "82ed8c9b583a01886d77346092322f3d353556a97c0b7977fbba5f2b3761dfe3"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/core/tts/kokoro-v1.0.onnx",
+      "bytes": 325532387,
+      "sha256": "7d5df8ecf7d4b1878015a32686053fd0eebe2bc377234608764cc0ef3636a6c5"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/core/tts/voices-v1.0.bin",
+      "bytes": 28214398,
+      "sha256": "bca610b8308e8d99f32e6fe4197e7ec01679264efed0cac9140fe9c29f1fbf7d"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/node_modules/playwright-core/package.json",
+      "bytes": 876,
+      "sha256": "f061c58427e47e843e26d201f0a57076c734e57c734ecbbd87d4a23b7a20db9b"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/node_modules/three/package.json",
+      "bytes": 4373,
+      "sha256": "2caf5d31ca4368c7e39e7e598dd95774fe1bdaae7cfbc5b073c8dcb5ec7e25da"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/.venv/pyvenv.cfg",
+      "bytes": 340,
+      "sha256": "6e1834d655de3da5b7b31c6df08148e2030da3e02e16538cd82bc277f1f075ce"
+    },
+    {
+      "path": "/workspace/models/whisper-small/config.json",
+      "bytes": 2370,
+      "sha256": "b55496ac7940a7ae47d2c01eab40edfd8701feec1229d9cce3b40014383fb828"
+    },
+    {
+      "path": "/workspace/models/whisper-small/model.bin",
+      "bytes": 483546902,
+      "sha256": "3e305921506d8872816023e4c273e75d2419fb89b24da97b4fe7bce14170d671"
+    },
+    {
+      "path": "/workspace/models/whisper-small/tokenizer.json",
+      "bytes": 2203239,
+      "sha256": "fb7b63191e9bb045082c79fd742a3106a12c99513ab30df4a0d47fa6cb6fd0ab"
+    },
+    {
+      "path": "/workspace/models/whisper-small/verified-manifest.json",
+      "bytes": 472,
+      "sha256": "8c8a61db21ea6a91d5b2b2427238ca5342db5f9c9f9382c9204e32781c515faa"
+    },
+    {
+      "path": "/workspace/models/whisper-small/vocabulary.txt",
+      "bytes": 459861,
+      "sha256": "34ce3fe1c5041027b3f8d42912270993f986dbc4bb34cf27f951e34a1e453913"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/2d/t_0.jpg",
+      "bytes": 14281,
+      "sha256": "f0119b278f79cbf89b927dfaccea90baabb2faf03b18bd1b50f764a7da915109"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/2d/t_1.jpg",
+      "bytes": 14277,
+      "sha256": "9bf51ddbe2e0eed61bdc74200a06983f93ff711bb696aeae35ee43309a7a62eb"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/2d.log",
+      "bytes": 431,
+      "sha256": "ef73bc441e55d5bf659aebfb0ab87f542e32ef396c627bfd12389c27c4e175b5"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/3d/t_0.jpg",
+      "bytes": 7860,
+      "sha256": "aa82058092412ba07a4ab2924d5fef12f4544ffb0de55a2c968a99f95d1fff3b"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/3d/t_1.jpg",
+      "bytes": 8857,
+      "sha256": "4b8e4d2f8b9458fa487f29724c608a4002d5ecd111492ae9df97196909ee0da8"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/3d.log",
+      "bytes": 434,
+      "sha256": "2c251317aa17ef27facda7771e5605bc152dea9b44e245e0c533b512e78a6797"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/combined.mp4",
+      "bytes": 118517,
+      "sha256": "b2fedc330605bde54ddfa1943cc2391f4c35e437227fc68a6b6130400b0eee7f"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/edge-fr.mp3",
+      "bytes": 24480,
+      "sha256": "f4632c7db067e9daf5182d718ee0b844251b6386c3c668d23250d553b3cb32a7"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/ffprobe-3d.json",
+      "bytes": 395,
+      "sha256": "1f8f1558fe376706cf7a5b000fc0efe69ed86f3ab31889cb8c364d7cf1085721"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/ffprobe-combined.json",
+      "bytes": 676,
+      "sha256": "e121e15dfb701e409aa0a0f75ac12b1ea8cf5b0c9529facf744947414f9a01ce"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/ffprobe.json",
+      "bytes": 675,
+      "sha256": "8b5048b01982944451a6e8752bb30f9b59dd1deccddec60d8a0569c6612eba15"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/final-2d-3d.mp4",
+      "bytes": 167052,
+      "sha256": "68099b066b2cbd60af96a5cffb98d71b71700e3c1ebc8f6fa2cd049fd5291a7f"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/final-integrity.json",
+      "bytes": 94,
+      "sha256": "fb103b49353b50f77658a5df4a52b5c7db092d16655b6013441f43284a9f6e4b"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/final.mp4",
+      "bytes": 79077,
+      "sha256": "1d01740a2cd8eb4cf1fd0a23e6dc1cb262ea5dc0bce587e093decf8dad52140e"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/graphics-check.json",
+      "bytes": 506,
+      "sha256": "ed70b28f510b8910f3c3390c1f1970481b3d3d6914a212600a9a4bc76f8ef4f3"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/kokoro/dur.json",
+      "bytes": 20,
+      "sha256": "5a630215ad338bc6439fe5a7f39d7b17f674a60e125cead6a4846e04c4f299d5"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/kokoro/french.wav",
+      "bytes": 118196,
+      "sha256": "a1e7f6f172dab87dc4cd73f08cc08ea9ffec951980240e102e1d8a3cd12beb29"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/kokoro/words.json",
+      "bytes": 150,
+      "sha256": "3fb4479b5d32973e29155fa7160348b7935e9191ebfb23b88e6002cd27350be5"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/kokoro.log",
+      "bytes": 220,
+      "sha256": "de5ed1f799174b2e016a8ee6269267d1609f10fe7b1c53c5feb993f5e01a220a"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/mux-combined.log",
+      "bytes": 124,
+      "sha256": "337477d474eede40d5077bce604ce60d049d2790048b8dcbf7540ef8d7d54e70"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/mux.log",
+      "bytes": 118,
+      "sha256": "9e51fb6cf4bc00dec858108565a4ff0f2da98141a1b573b61fb2d1f6c4b5aa46"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/video-3d.log",
+      "bytes": 546,
+      "sha256": "7e294fe6c940e410dd8979d50eab626a5f1713f42e1a802d68716d8f7aacf0eb"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/video-3d.mp4",
+      "bytes": 56104,
+      "sha256": "ce05e3443eeb41c06e74c3462f8f26d5a7b3ef1d0b3bbc3324eb1ad5ea1df052"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/video.log",
+      "bytes": 555,
+      "sha256": "355ffff4e2e1752b47d82eb6bf6f7e3ba843ea33b1e27360d9a8209d6f71cff0"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/video.mp4",
+      "bytes": 19561,
+      "sha256": "78bfface3f9673f14e273b7cab1398468d87aa629b8525873d8601058a3b12fd"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/voice-mix.wav",
+      "bytes": 192078,
+      "sha256": "e94c29495818f9b87f554796c438364d974c522a90f050f939e03b7162f5ffb0"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/films/.codex-runtime/validation/whisper.log",
+      "bytes": 164,
+      "sha256": "5ce9a76b4d11bd510f93759ec4fcaf313c3b26cffbfceffdc728ebf70fdef3f4"
+    }
+  ],
+  "required_paths": [
+    {
+      "path": "/workspace/lemo-opuscar/.venv",
+      "resolved_at_audit": "/workspace/lemo-opuscar/.venv"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/.venv/bin/python",
+      "resolved_at_audit": "/opt/codex/runtimes/codex-primary-runtime/dependencies/python/bin/python3.12"
+    },
+    {
+      "path": "/workspace/lemo-opuscar/node_modules",
+      "resolved_at_audit": "/workspace/lemo-opuscar/node_modules"
+    },
+    {
+      "path": "/usr/bin/chromium",
+      "resolved_at_audit": "/usr/bin/chromium"
+    },
+    {
+      "path": "/usr/lib/chromium/chromium",
+      "resolved_at_audit": "/usr/lib/chromium/chromium"
+    },
+    {
+      "path": "/usr/bin/ffmpeg",
+      "resolved_at_audit": "/usr/bin/ffmpeg"
+    }
+  ]
+}

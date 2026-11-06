@@ -1,0 +1,23 @@
+{
+  "chromium_version": "155.0.8059.79",
+  "actual_executable": "/usr/lib/chromium/chromium",
+  "launches_recorded": 10,
+  "entrypoints": [
+    "/workspace/lemo-opuscar/core/render/events.mjs",
+    "/workspace/lemo-opuscar/core/render/readcheck.mjs",
+    "/workspace/lemo-opuscar/core/render/still.mjs",
+    "/workspace/lemo-opuscar/core/render/video.mjs",
+    "/workspace/lemo-opuscar/styles/game-show/demo/render.mjs",
+    "/workspace/lemo-opuscar/styles/halftone-dossier/demo/render.mjs"
+  ],
+  "graphics_nonblank": [
+    "2d",
+    "crt",
+    "3d"
+  ],
+  "tracked_files_checked": 2478,
+  "tracked_files_modified": [],
+  "styles_preserved": 66,
+  "whisper_offline_exit": 2,
+  "whisper_network_exit": 2
+}

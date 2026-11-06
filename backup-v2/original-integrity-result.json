@@ -1,0 +1,14 @@
+{
+  "original_root": "/workspace/lemo-opuscar",
+  "checked_files": 15143,
+  "added": [],
+  "missing": [],
+  "content_or_metadata_changes": [],
+  "metadata_checked": [
+    "size",
+    "sha256_or_symlink_target",
+    "mode",
+    "mtime_ns"
+  ],
+  "access_times_not_compared": "Reading can update atime; content, mtime and mode are checked."
+}

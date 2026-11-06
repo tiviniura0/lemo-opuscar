@@ -1,0 +1,18 @@
+[
+  {
+    "status": 307,
+    "host": "huggingface.co"
+  },
+  {
+    "status": 302,
+    "host": "us.aws.cdn.hf.co"
+  },
+  {
+    "status": 307,
+    "host": "huggingface.co"
+  },
+  {
+    "status": 307,
+    "host": "huggingface.co"
+  }
+]

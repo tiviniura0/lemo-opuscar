@@ -1,0 +1,13 @@
+[
+  {
+    "test": "https_with_platform_CA",
+    "ok": true,
+    "voice_count": 322,
+    "denise_present": true
+  },
+  {
+    "test": "french_synthesis_with_platform_CA",
+    "ok": true,
+    "bytes": 24480
+  }
+]

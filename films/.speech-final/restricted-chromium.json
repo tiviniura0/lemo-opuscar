@@ -1,0 +1,6 @@
+{
+  "playwright": "1.63.0",
+  "requested": "/usr/bin/chromium",
+  "version": "155.0.8059.79",
+  "actual_executable": "/usr/lib/chromium/chromium"
+}
